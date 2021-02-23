@@ -2,7 +2,11 @@
 
 ## About 📜
 
-I'm a 19 years old guy, and I've started programming in July of 2020. In the moment that I started understanding what this huge universe really is I realized the potential that tecnology have to make the world a better place
+I'm a 19 years old brazilian guy, and I've started programming in July of 2020. In the moment that I started understanding what this huge universe really is I realized the potential that tecnology have to make the world a better place
+
+## What am I studying 📚
+
+I started studying Java in the backend and React (together with html, css and vanilla js) in the frontend, but in December of 2020 I was able to get my first job as Trainee Developer at T2M - Test To Market and focused on studying API development with .NET Core and C#. I also study Node.js because I like javascript's versatility
 
 <!--
 **caina-machado/caina-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
