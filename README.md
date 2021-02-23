@@ -12,6 +12,10 @@ I started studying Java in the backend and React (together with html, css and va
 
 I'm a guy who really like to help other people, and I do that for two reasons: 1º... just because I really enjoy helping others 😊. 2º because I believe I can always learn something too!
 
+## How to reach me 📫
+
+If you want to connect with me in social media, here is my [linkedin](https://linkedin.com/in/caina-machado)
+
 <!--
 **caina-machado/caina-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
