@@ -8,6 +8,10 @@ I'm a 19 years old brazilian guy, and I've started programming in July of 2020. 
 
 I started studying Java in the backend and React (together with html, css and vanilla js) in the frontend, but in December of 2020 I was able to get my first job as Trainee Developer at T2M - Test To Market and focused on studying API development with .NET Core and C#. I also study Node.js because I like javascript's versatility
 
+## How can I help you? 🤝
+
+I'm a guy who really like to help other people, and I do that for two reasons: 1º... just because I really enjoy helping others 😊. 2º because I believe I can always learn something too!
+
 <!--
 **caina-machado/caina-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
