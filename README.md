@@ -2,6 +2,7 @@
 
 ## About 📜
 
+I'm a 19 years old guy, and I've started programming in July of 2020. In the moment that I started understanding what this huge universe really is I realized the potential that tecnology have to make the world a better place
 
 <!--
 **caina-machado/caina-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
