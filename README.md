@@ -6,7 +6,7 @@ I'm a 19 years old brazilian guy, and I've started programming in July of 2020. 
 
 ## What am I studying 📚
 
-I started studying Java in the backend and React (together with html, css and vanilla js) in the frontend, but in December of 2020 I was able to get my first job as Trainee Developer at T2M - Test To Market and focused on studying API development with .NET and C#. I also study Node.js because I like javascript's versatility
+I started studying Java in the backend and React (together with html, css and vanilla js) in the frontend, but in December of 2020 I was able to get my first job as Trainee Developer at T2M - Test To Market and focused on studying API development with .NET and C#. I also study React for frontend development
 
 ## How can I help you? 🤝
 
