@@ -2,15 +2,15 @@
 
 ## About 📜
 
-I'm a 19 years old brazilian guy, and I've started programming in July of 2020. In the moment that I started understanding what this huge universe really is, I realized the potential that tecnology have to make the world a better place
+I'm 21 years old, and I've started programming in July of 2020. At the moment I started understanding the potential technology have to improve our daily life, I felt in love with it.
 
-## What am I studying 📚
+## What do I work with 📚
 
-I started studying Java in the backend and React (together with html, css and vanilla js) in the frontend, but in December of 2020 I was able to get my first job as Trainee Developer at T2M - Test To Market and focused on studying API development with .NET and C#. I also study React for frontend development
+I work as Junior Software Analyst at T2M - Test To Market, although I began my carrer as Trainne Tester. I already have experience with frontend (HTML, CSS, vanilla JS and mainly React) and backend (mainly C#, and a little bit of Java) development. I also work with databases, using SQL scripts (DDL, DML and TCL), messaging tools like Service Bus and automated process management with Camunda.
 
 ## How can I help you? 🤝
 
-I'm a guy who really like to help other people, and I do that for two reasons: 1º... just because I really enjoy helping others 😊. 2º because I believe I can always learn something too!
+I'm always available to helping others, and I do that for two reasons: 1º... just because I really enjoy helping others 😊. 2º because I believe I can always learn something too!
 
 ## How to reach me 📫
 
