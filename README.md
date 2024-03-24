@@ -2,7 +2,7 @@
 
 ## About 📜
 
-I'm 21 years old, and I've started programming in July of 2020. At the moment I started understanding the potential technology have to improve our daily life, I felt in love with it.
+I'm 22 years old, and I've started programming in July of 2020. At the moment I started understanding the potential technology have to improve our daily life, I felt in love with it.
 
 ## What do I work with 📚
 
